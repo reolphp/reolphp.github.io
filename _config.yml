@@ -7,7 +7,7 @@
 
 # Site settings
 title: reol的技术专栏
-brief-intro: Android and Python Coder
+brief-intro: PHP
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://reolphp.github.io" # the base hostname & protocol for your site
 
